@@ -1,0 +1,32 @@
+26/08/2018 
+
+Dynamic Smart Array B120i RAID in Slot 0 (Embedded)
+
+   array A (SATA, Unused Space: 0  MB)
+
+
+      logicaldrive 1 (931.5 GB, RAID 1, OK)
+
+      physicaldrive 1I:0:1 (port 1I:box 0:bay 1, SATA, 1 TB, OK)
+      physicaldrive 2I:0:2 (port 2I:box 0:bay 2, SATA, 1 TB, OK)
+
+   array B (SATA, Unused Space: 0  MB)
+
+
+      logicaldrive 2 (465.7 GB, RAID 0, OK)
+
+      physicaldrive 6I:0:6 (port 6I:box 0:bay 6, SATA, 500 GB, OK)
+
+   array C (SATA, Unused Space: 0  MB)
+
+
+      logicaldrive 3 (931.5 GB, RAID 0, OK)
+
+      physicaldrive 4I:0:4 (port 4I:box 0:bay 4, SATA, 1 TB, OK)
+
+   array D (SATA, Unused Space: 0  MB)
+
+
+      logicaldrive 4 (931.5 GB, RAID 0, OK)
+
+      physicaldrive 3I:0:3 (port 3I:box 0:bay 3, SATA, 1 TB, OK)
